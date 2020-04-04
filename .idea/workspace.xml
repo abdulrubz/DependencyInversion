@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e960cad-cc26-4bb9-b1af-2dd1b872cef4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a51CJhA3KodFwcG7qINQxknFh9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Solution" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution.Tester" />
+      <module name="DependencyInversion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Tester" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="514" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1586012452521">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state x="514" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/47.27.1319.741@47.27.1319.741" timestamp="1586012452521" />
+    <state x="498" y="285" width="417" height="232" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586012384885">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state x="498" y="285" width="417" height="232" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/47.27.1319.741@47.27.1319.741" timestamp="1586012384885" />
+    <state width="1277" height="177" key="GridCell.Tab.0.bottom" timestamp="1586014328920">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state width="1277" height="177" key="GridCell.Tab.0.bottom/47.27.1319.741@47.27.1319.741" timestamp="1586014328920" />
+    <state width="1277" height="177" key="GridCell.Tab.0.center" timestamp="1586014328919">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state width="1277" height="177" key="GridCell.Tab.0.center/47.27.1319.741@47.27.1319.741" timestamp="1586014328919" />
+    <state width="1277" height="177" key="GridCell.Tab.0.left" timestamp="1586014328919">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state width="1277" height="177" key="GridCell.Tab.0.left/47.27.1319.741@47.27.1319.741" timestamp="1586014328919" />
+    <state width="1277" height="177" key="GridCell.Tab.0.right" timestamp="1586014328920">
+      <screen x="47" y="27" width="1319" height="741" />
+    </state>
+    <state width="1277" height="177" key="GridCell.Tab.0.right/47.27.1319.741@47.27.1319.741" timestamp="1586014328920" />
+  </component>
+</project>
